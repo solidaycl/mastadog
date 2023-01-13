@@ -1,1 +1,3 @@
 # mastadog
+
+Some clojure fun
